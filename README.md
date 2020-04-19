@@ -1,5 +1,3 @@
-# vue_crash_course
-
 ## Project setup
 ```
 npm install
